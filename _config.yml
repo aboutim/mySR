@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: abouTim Tech Notes
+title: Tim Life&Tech Notes
 subtitle: 
 description:
 author: tim
@@ -77,5 +77,5 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
-  repo: git@github.com:aboutim/aboutim.github.io
+  type: 
+##  repo: git@github.com:aboutim/aboutim.github.io
