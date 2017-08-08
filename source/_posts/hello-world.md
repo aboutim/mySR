@@ -1,38 +1,21 @@
 ---
-title: Hello World
+title: 关于这里
+date: 2014-07-13
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+## 记录我在IT技术的道路上探索实践中有趣的点点滴滴
+   
+#### 熟悉技能：
 
-### Create a new post
+VMWare vSphere/Horizon 安装、部署、规划、设计、管理、自动化运维
 
-``` bash
-$ hexo new "My New Post"
-```
+Powershell、PowerCLI、Pyhton
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+服务器、数据存储/管理/备份/复制等方案设计
 
-### Run server
+基于VMWare环境的网络/存储/备份/灾备 有一定的研究
 
-``` bash
-$ hexo server
-```
+专注方向：云计算、虚拟化技术、数据存储与管理
 
-More info: [Server](https://hexo.io/docs/server.html)
 
-### Generate static files
 
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/deployment.html)
