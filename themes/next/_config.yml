@@ -426,8 +426,8 @@ rating:
 # You can visit https://leancloud.cn get AppID and AppKey.
 leancloud_visitors:
   enable: true
-  appId: B9QHiqOmHqr2U7z2GPt8YwKL-gzGzoHsz
-  appKey: URLbK1tcnXiFCt8u7jhnuJkO
+  app_Id: B9QHiqOmHqr2U7z2GPt8YwKL-gzGzoHsz
+  app_Key: URLbK1tcnXiFCt8u7jhnuJkO
   
  # tongji
 
