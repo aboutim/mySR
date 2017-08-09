@@ -578,6 +578,12 @@ canvas_sphere: false
 # Canvas-ribbon
 canvas_ribbon: false
 
+valine:
+  enable: true
+  appId: B9QHiqOmHqr2U7z2GPt8YwKL-gzGzoHsz
+  appKey: URLbK1tcnXiFCt8u7jhnuJkO
+
+
 # Script Vendors.
 # Set a CDN address for the vendor you want to customize.
 # For example
