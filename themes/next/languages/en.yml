@@ -34,6 +34,7 @@ post:
   visitors: Visitors
   wordcount: Words count in article
   min2read: Reading time
+  sticky: Sticky
   copyright:
     author: Post author
     link: Post link

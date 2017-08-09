@@ -425,9 +425,11 @@ rating:
 # Show number of visitors to each article.
 # You can visit https://leancloud.cn get AppID and AppKey.
 leancloud_visitors:
-  enable: false
-  app_id: #<app_id>
-  app_key: #<app_key>
+  enable: true
+  appId: B9QHiqOmHqr2U7z2GPt8YwKL-gzGzoHsz
+  appKey: URLbK1tcnXiFCt8u7jhnuJkO
+  
+ # tongji
 
 # Show PV/UV of the website/page with busuanzi.
 # Get more information on http://ibruce.info/2015/04/04/busuanzi/
@@ -582,6 +584,8 @@ valine:
   enable: true
   appId: B9QHiqOmHqr2U7z2GPt8YwKL-gzGzoHsz
   appKey: URLbK1tcnXiFCt8u7jhnuJkO
+  
+# pinglun
 
 
 # Script Vendors.
@@ -590,6 +594,10 @@ valine:
 #    jquery: https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js
 # Be aware that you should use the same version as internal ones to avoid potential problems.
 # Please use the https protocol of CDN files when you enable https on your site.
+
+
+ 
+ 
 vendors:
   # Internal path prefix. Please do not edit it.
   _internal: lib
