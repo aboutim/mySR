@@ -14,7 +14,7 @@ keywords: "Hexo, NexT"
 rss:
 
 # Specify the date when the site was setup
-#since: 2015
+since: 2014
 
 # icon between year and author @Footer
 authoricon: heart
@@ -69,6 +69,7 @@ menu_icons:
   schedule: calendar
   tags: tags
   archives: archive
+  guestbook: book
   sitemap: sitemap
   commonweal: heartbeat
 
@@ -353,6 +354,9 @@ changyan:
 ##  type: button
 
 # Share
+sharesdk: true
+shareSDKappkey: 2014469f04a50
+
 #jiathis:
 # Warning: JiaThis does not support https.
 #add_this_id:
