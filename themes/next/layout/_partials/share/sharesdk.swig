@@ -1,5 +1,5 @@
 <!--MOB SHARE BEGIN-->
- <div class="shareuibutton -mob-share-open">分 享</div>
+ <div class="-mob-share-ui-button -mob-share-open" style="background:#222222">分 享</div>
  <div class="-mob-share-ui -mob-share-ui-theme -mob-share-ui-theme-slide-bottom" style="display: none">
      <ul class="-mob-share-list">
          <li class="-mob-share-weibo"><p>新浪微博</p></li>
