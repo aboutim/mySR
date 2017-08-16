@@ -37,7 +37,7 @@ render_drafts: false
 post_asset_folder: false
 relative_link: false
 future: true
-baidu-site-verification: cUWOnrASDh
+#baidu-site-verification: cUWOnrASDh
 
 highlight:
   enable: true
