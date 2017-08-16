@@ -37,6 +37,7 @@ render_drafts: false
 post_asset_folder: false
 relative_link: false
 future: true
+baidu-site-verification: <meta name="baidu-site-verification" content="cUWOnrASDh" />
 highlight:
   enable: true
   line_number: true
