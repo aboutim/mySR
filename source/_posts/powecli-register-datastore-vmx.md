@@ -1,5 +1,5 @@
 ---
-title: 用 PowerCLI 从 Datastore 中批量获取 VMX 文件注册到 VC
+title: 使用 PowerCLI 批量获取 VMX 并注册到 VC 清单中
 date: 2017-07-17 13:23:10
 categories: 虚拟化
 tags:
