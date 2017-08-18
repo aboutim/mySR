@@ -28,16 +28,19 @@ tags:
    $DsPath = "[" + $Datastoreinfo.Name + "]"
     ```
 4. 搜索并展现
-
     ```
    $SearchResult = $DsBrowser.SearchDatastoreSubFolders($DsPath, $SearchSpec) | where {$_.FolderPath -notmatch ".snapshot"} | %{$.FolderPath + ($_.File | select Path).Path}
     ```
     最终输出的结果为
+    ```
     [datastorename] VMnameFolder/VMname.vmx
+    ```
 
 5. 注册VM
+    ```
     New-VM -Name $VMname -VMFilePath $VMXpath -ResourcePool $vmhost -Location $VMFolder -RunAsync
-6. 
+    ```
+    
 *如果 VM 名称曾经修改过，又没有做过 XvMotion (storeger vMotion) VMnameFolder以及目录下所有的VM文件，还是原来旧的 VMname 命名。
 
 ## 扩展
