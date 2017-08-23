@@ -8,15 +8,17 @@ tags:
 
 ## 记录我在IT技术的道路上探索实践中的点点滴滴
    
-#### 专注方向
+### 目前专注方向-2017
 
-VMWare vSphere/Horizon 安装、部署、规划、设计、管理、自动化运维
+VMWare：vSphere/Horizon 安装、部署、规划、设计、管理、自动化运维
 
-Powershell、PowerCLI、Pyhton
+开发：Powershell、PowerCLI、Pyhton
 
-服务器、数据存储/管理/备份/复制等方案设计
+IDC基础设施：数据中心、机房机柜、服务器设备
 
-基于VMWare环境的网络/存储/备份/灾备 有一定的研究
+数据管理：数据存储/管理/备份/复制/重删/压缩
 
-云计算、虚拟化技术、数据存储与管理
+扩展：基于VMWare环境的网络/存储/备份/灾备 
+
+云计算工程技术：虚拟化技术、SDS、SDN、CMP、IAAS、PAAS
 
