@@ -1,9 +1,9 @@
 ---
 title: 故障排错-ESXI-VM无法启动以及迁移且SSH/shell服务无法启动
 date: 2015-11-11 11:09:11
-categories: VMWare运维
+categories: VMware运维
 tags:
- - ESXI
+ - ESXi
  - 排障
 ---
 
@@ -42,7 +42,7 @@ SSH上去一查，果然
 ``` shell
 # /etc/init.d/snmpd stop
 ```
-官方建议停止SNMPD这个服务，但是TRP文件依然增长，
+官方建议停止 snmpd 这个服务，但是TRP文件依然增长，
 启用后，TRP文件却停止增长了。
 ``` shell
 snmpd is running
