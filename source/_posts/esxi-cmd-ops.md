@@ -1,7 +1,7 @@
 ---
 title: vSphere运维的一些命令
 date: 2015-07-05 15:21:36
-categories: VMware
+categories: VMware运维
 tags:
  - ESXi
  - command
@@ -13,11 +13,13 @@ tags:
 ``` shell
 #vim-cmd vimsvc/task_list
 ```
+
 3. 查看任务具体细节
 ``` shell
 #vim-cmd vimsvc/task_info xxxxx
 ```
 xxxxx 代表任务ID
+
 4. 确认之后，执行以下命令取消任务
 ``` shell
 #vim-cmd vimsvc/task_cancel xxxxx
@@ -29,11 +31,13 @@ xxxxx 代表任务ID
 3. 输入C 切换到 CPU 资源界面 按shift + V 只显示 VMs 相关的信息
 
 ![image](https://pek3a.qingstor.com/mynotes/esxtop-command-1.png)
+
 4. 接着输入 F  ，按 C 把 LWID 显示出来
 
 ![image](https://pek3a.qingstor.com/mynotes/esxtop-command-2.png)
 
 ![image](https://pek3a.qingstor.com/mynotes/esxtop-command-3.png)
+
 5. 按 K ，把需要杀死的虚拟机的LWID 输入回车即可
 
 ![image](https://pek3a.qingstor.com/mynotes/esxtop-command-2.png)
